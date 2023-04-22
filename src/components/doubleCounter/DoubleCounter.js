@@ -1,6 +1,5 @@
 // Два независимых счетчика
 // Второй имеет функциональность в виде установки произвольного значения
-// https://habr.com/ru/articles/660573/
 import React, { useReducer, useState } from "react";
 import styles from "./DoubleCounter.module.scss";
 
