@@ -1,0 +1,13 @@
+.root {
+    background-color: white;
+    border: none;
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    &:active,
+    &:focus {
+        outline: none;
+    }
+}

@@ -43,3 +43,11 @@ p {
   color: brown;
 }
 
+.counterContainer {
+  display: inline-flex;
+  border: 1px solid #17a2b8;
+  line-height: 1.5rem;
+  border-radius: 0.25rem;
+  overflow: hidden;
+}
+

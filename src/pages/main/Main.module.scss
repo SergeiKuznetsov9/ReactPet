@@ -1,17 +1,28 @@
 .root {
     width: 100%;
-    height: 100vh;
+    min-height: 100vh;
     max-width: 1280px;
     margin: auto;
     background-color: aquamarine;
     padding: 16px;
 }
 
-.compositeComponents {
+.paragraphBlock {
     border: 1px solid black;
     border-radius: 10px;
     width: 90%;
     margin: auto;
     padding: 16px;
     background-color: antiquewhite;
+    margin-bottom: 24px;
+}
+
+.noteBlock {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    padding: 16px;
+    background-color:azure;
+    margin-bottom: 24px;
 }
